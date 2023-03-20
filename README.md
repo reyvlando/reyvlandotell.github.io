@@ -1,4 +1,4 @@
-![Book logo](assets/WhatsApp Image 2023-03-20 at 22.27.03.jpg)
+![Book logo](/assets/WhatsApp Image 2023-03-20 at 22.27.03.jpg)
 # Portofolio
 ---
 ## Use Case Data-Science Pada Business Credit Scoring
