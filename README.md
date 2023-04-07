@@ -7,3 +7,7 @@ Business credit scoring engine merupakan sebuah tool yang digunakan oleh lender 
 ---
 ## Pengaplikasian Data-Science Pada Industri Retail
 Salah satu pengaplikasian data science pada industri retail adalah customer analytics. Retailer dapat mendapatkan insight atas perilaku konsumen, preferensi, serta tren yang ada dengan menganalisis data konsumen. Insight-insight tersebut kemudian dapat digunakan dalam merumuskan strategi marketing, penawaran produk, dan customer services sehingga dapat menggaet konsumen dan berujung pada ...[klik untuk lebih lengkapnya](https://itsacid-my.sharepoint.com/:w:/g/personal/5031201058_mhs_its_ac_id/EWdE1hcNuYNIib-PAsMFRQAB4-POw2SLeAuxSET2KtOeOQ?e=gjx8bm)
+
+---
+## Portofolio Visualizing Data
+Visualisasi sederhana mengenai proporsi sektor pada perusahaan-perusahaan yang terdaftar di Bursa Efek Indonesia. Data yang dianalisis berasal dari [kaggle.com](https://www.kaggle.com/datasets/muamkh/ihsgstockdata)
