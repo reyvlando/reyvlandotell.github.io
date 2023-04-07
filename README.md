@@ -14,4 +14,4 @@ Visualisasi sederhana mengenai proporsi sektor pada perusahaan-perusahaan yang t
 
 
 Kunjungi
-![linkedin](/assets/linkedin.svg)
+![linkedin](/assets/linkedin.svg width="50" height="50")
