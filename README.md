@@ -11,3 +11,7 @@ Salah satu pengaplikasian data science pada industri retail adalah customer anal
 ---
 ## Portofolio Visualizing Data
 Visualisasi sederhana mengenai proporsi sektor pada perusahaan-perusahaan yang terdaftar di Bursa Efek Indonesia. Data yang dianalisis berasal dari [kaggle.com](https://www.kaggle.com/datasets/muamkh/ihsgstockdata)
+
+
+Kunjungi
+<img src="linkedin" alt="LinkedIn Logo" width="50" height="50"/>
