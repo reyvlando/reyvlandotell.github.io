@@ -1,13 +1,32 @@
+# Hi there, I'm Reyvlando 👋
+
 ![Book logo](/assets/WhatsApp Image 2023-03-20 at 22.27.03.jpg)
-# Portofolio
----
-## Use Case Data-Science Pada Business Credit Scoring
-Business credit scoring engine merupakan sebuah tool yang digunakan oleh lender atau peminjam untuk menilai kelayakan kredit dengan cara mengevaluasi beberapa faktor seperti pekerjaan, kinerja keuangan, jenis jaminan pinjaman dan lain-lain.  Faktor-faktor tersebut kemudian digunakan dalam memperhitungkan skor setiap pelanggan ketika akan mengajukan kredit. Skor kredit tersebut akan berguna untuk menilai dan memilih calon nasabah yang baik. Menurut Co-Founder dan CEO Fineoz Anis Radianis (Nabila, 2019), kualitas primer dari skor kredit ada 3 macam, yaitu ...[klik untuk lebih lengkapnya](https://itsacid-my.sharepoint.com/:w:/g/personal/5031201058_mhs_its_ac_id/EWdE1hcNuYNIib-PAsMFRQAB4-POw2SLeAuxSET2KtOeOQ?e=9ybG5q)
+## About me:
+- 🚀 I'm currently joining Independent Study at Zenius in Data Analytics
+- 📥 reach me on : reyvlandorizal@gmail.com
+
+## Education:
+
+#### 1. [Business Management - Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/mb/id/beranda/) | Surabaya `2017-now`
+   - Laboratorium Assistant at Business Analytics and Strategy Laboratory
+   - Vice Manager of Business Project in Student Union
+   - Talent Management of U-Part Consulting
+ #### 2. [SMA Negeris 1 Gresik](https://sman1gresik.sch.id/) | MIPA | Gresik `2014-2017`
+   - Vice Chairman of Remaja Masjid
+   - Project Officer of Competition of Islamic Art in East Java
 
 ---
-## Pengaplikasian Data-Science Pada Industri Retail
-Salah satu pengaplikasian data science pada industri retail adalah customer analytics. Retailer dapat mendapatkan insight atas perilaku konsumen, preferensi, serta tren yang ada dengan menganalisis data konsumen. Insight-insight tersebut kemudian dapat digunakan dalam merumuskan strategi marketing, penawaran produk, dan customer services sehingga dapat menggaet konsumen dan berujung pada ...[klik untuk lebih lengkapnya](https://itsacid-my.sharepoint.com/:w:/g/personal/5031201058_mhs_its_ac_id/EWdE1hcNuYNIib-PAsMFRQAB4-POw2SLeAuxSET2KtOeOQ?e=gjx8bm)
+## Portofolio:
+
+#### Visualizing Data with Google Colab
+[![website](./img/google-colab3.svg)](https://colab.research.google.com/drive/12nKM9J4FBzwB65AwgmVGfQlZT9iO37U5?usp=sharing#gh)
+#### Article
+[![website](./img/medium4.svg)](https://medium.com/@reyvlandorizal#gh)
 
 ---
-## Portofolio Visualizing Data
-Visualisasi sederhana mengenai proporsi sektor pada perusahaan-perusahaan yang terdaftar di Bursa Efek Indonesia. Data yang dianalisis berasal dari [kaggle.com](https://www.kaggle.com/datasets/muamkh/ihsgstockdata)
+### Connect with me:
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/reyvlando#gh)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/reyvlando#gh)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/reyvlando#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/reyvlando#gh-dark-mode-only)
