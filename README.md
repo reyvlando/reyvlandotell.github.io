@@ -1,6 +1,7 @@
 # Hi there, I'm Reyvlando 👋
 
-<img src="WhatsApp Image 2023-03-20 at 22.27.03.jpg" width="50%">
+<img src="fotoprofil.jpg" width="20%">
+
 ## About me:
 - 🚀 I'm currently joining Independent Study at Zenius in Data Analytics
 - 📥 reach me on : reyvlandorizal@gmail.com
@@ -16,7 +17,6 @@
    - Vice Chairman of Remaja Masjid
    - Project Officer of Competition of Islamic Art in East Java
 
----
 ## Portofolio:
 
 #### Visualizing Data with Google Colab
@@ -24,7 +24,6 @@
 #### Article
 [![website](./img/medium4.svg)](https://medium.com/@reyvlandorizal#gh)
 
----
 ## Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/reyvlando#gh)
 &nbsp;&nbsp;
