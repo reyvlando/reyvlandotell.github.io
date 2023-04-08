@@ -11,7 +11,8 @@
    - Laboratorium Assistant at Business Analytics and Strategy Laboratory
    - Vice Manager of Business Project in Student Union
    - Talent Management of U-Part Consulting
-#### 2. [SMA Negeris 1 Gresik](https://sman1gresik.sch.id/) | MIPA | Gresik `2014-2017`
+
+#### 2. [SMA Negeri 1 Gresik](https://sman1gresik.sch.id/) | MIPA | Gresik `2014-2017`
    - Vice Chairman of Remaja Masjid
    - Project Officer of Competition of Islamic Art in East Java
 
@@ -27,4 +28,4 @@
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/reyvlando#gh)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/reyvlando#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/reyvlando#gh)
