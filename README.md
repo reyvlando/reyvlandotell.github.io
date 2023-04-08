@@ -1,6 +1,6 @@
 # Hi there, I'm Reyvlando 👋
 
-![Book logo](/assets/WhatsApp Image 2023-03-20 at 22.27.03.jpg)
+<img src="WhatsApp Image 2023-03-20 at 22.27.03.jpg" width="50%">
 ## About me:
 - 🚀 I'm currently joining Independent Study at Zenius in Data Analytics
 - 📥 reach me on : reyvlandorizal@gmail.com
