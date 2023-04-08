@@ -1,6 +1,6 @@
 # Hi there, I'm Reyvlando 👋
 
-<img src="fotoprofil.jpg" width="20%" />
+<img src="fotoprofil.jpg" width="40%" />
 
 ## About me:
 - 🚀 I'm currently joining Independent Study at Zenius in Data Analytics
