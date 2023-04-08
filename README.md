@@ -26,7 +26,5 @@
 ---
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/reyvlando#gh)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/reyvlando#gh)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/reyvlando#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/reyvlando#gh-dark-mode-only)
