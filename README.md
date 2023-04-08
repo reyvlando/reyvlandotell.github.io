@@ -25,7 +25,7 @@
 [![website](./img/medium4.svg)](https://medium.com/@reyvlandorizal#gh)
 
 ---
-### Connect with me:
+## Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/reyvlando#gh)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/reyvlando#gh)
