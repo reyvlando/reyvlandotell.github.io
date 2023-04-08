@@ -1,4 +1,3 @@
-# Hi there, I'm Reyvlando 👋
 
 <img src="fotoprofil.jpg" width="40%" />
 
