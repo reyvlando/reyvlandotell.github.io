@@ -7,12 +7,12 @@
 
 ## Education:
 
-#### 1. [Business Management - Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/mb/id/beranda/) | Surabaya `2017-now`
+1. [Business Management - Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/mb/id/beranda/) | Surabaya `2017-now`
    - Laboratorium Assistant at Business Analytics and Strategy Laboratory
    - Vice Manager of Business Project in Student Union
    - Talent Management of U-Part Consulting
 
-#### 2. [SMA Negeri 1 Gresik](https://sman1gresik.sch.id/) | MIPA | Gresik `2014-2017`
+2. [SMA Negeri 1 Gresik](https://sman1gresik.sch.id/) | MIPA | Gresik `2014-2017`
    - Vice Chairman of Remaja Masjid
    - Project Officer of Competition of Islamic Art in East Java
 
